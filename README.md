@@ -9,12 +9,12 @@
 
 ---
 
-[cite_start]I'm a **Software Engineer** [cite: 37] [cite_start]with a passion for building robust web applications and exploring the frontier of Artificial Intelligence[cite: 69, 70]. [cite_start]My background includes an **MSc in Computer Science** [cite: 15] [cite_start]and hands-on experience developing and maintaining systems using **PHP** [cite: 26][cite_start], **WordPress** [cite: 27][cite_start], **C#** [cite: 25][cite_start], and the **.NET** [cite: 26] framework.
+I'm a **Software Engineer** with a passion for building robust web applications and exploring the frontier of Artificial Intelligence. My background includes an **MSc in Computer Science** and hands-on experience developing and maintaining systems using **PHP**, **WordPress**, **C#**, and the **.NET** framework.
 
-[cite_start]Currently, my professional focus is on bridging the gap between full-stack development and machine learning, with a keen interest in tools like **Vertex AI** [cite: 29][cite_start], **Python**[cite: 26], and modern **DevOps** practices.
+Currently, my professional focus is on bridging the gap between full-stack development and machine learning, with a keen interest in tools like **Vertex AI**, **Python**, and modern **DevOps** practices.
 
-* [cite_start]🔭 I’m currently working as a **Software Engineer at iHealthScreen Bangladesh Ltd.** [cite: 36, 37] [cite_start]and as a remote **Web Developer for MAC Technology Australia**[cite: 54, 55].
-* [cite_start]🌱 I'm actively expanding my expertise in **AI** [cite: 69][cite_start], **Machine Learning**[cite: 72], and cloud-native tech (Docker/Kubernetes).
+* 🔭 I’m currently working as a **Software Engineer at iHealthScreen Bangladesh Ltd.** and as a remote **Web Developer for MAC Technology Australia**.
+* 🌱 I'm actively expanding my expertise in **AI**, **Machine Learning**, and cloud-native tech (Docker/Kubernetes).
 * 🤝 I’m looking to collaborate on open-source AI projects or complex web applications.
 
 ---
@@ -35,7 +35,7 @@
       <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="30" height="30" alt="Laravel"><br>
       <img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" alt="Python"><br>
       <img src="https://cdn.simpleicons.org/csharp/512BD4" width="30" height="30" alt="C#"><br>
-      <img src="httpsstatic.com/dot-net/512BD4" width="30" height="30" alt=".NET">
+      <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="30" height="30" alt=".NET">
     </td>
     <td align="center">
       <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" height="30" alt="JavaScript"><br>
@@ -47,8 +47,8 @@
     <td align="center">
       <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" height="30" alt="MySQL"><br>
       <img src="https://cdn.simpleicons.org/oracle/F80000" width="30" height="30" alt="Oracle PL/SQL"><br>
-      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="30" height="30" alt="Google AI"><br>
-      <img src="https://img.icons8.com/color/48/vertex-ai.png" width="30" height="30" alt="Vertex AI">
+      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="30" height="30" alt="TensorFlow"><br>
+      <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="30" height="30" alt="Vertex AI (Google Cloud)">
     </td>
     <td align="center">
       <img src="https://cdn.simpleicons.org/wordpress/21759B" width="30" height="30" alt="WordPress"><br>
@@ -64,6 +64,49 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 📂 My Portfolio & Notable Projects
+
+* **Online Smartphone Shop**
+    * An e-commerce website built from scratch using **PHP**, **JavaScript**, **AJAX**, and **jQuery**.
+    * Features a customer-facing shop and a full admin panel for product and inventory management.
+
+* **AIUB Online Forum**
+    * A social-style forum website developed with **ASP.NET (C#)**.
+    * Allows users to post, like, comment, and interact with each other.
+
+* **Hospital Management System**
+    * A C# desktop application connected to a powerful **Oracle (PL/SQL)** backend.
+    * Heavily utilized triggers, stored procedures, and functions for database integrity.
+
+* **Live WordPress Projects**
+    * **[MAC Technology Australia](https://mactechnology.com.au/)**: A live site for an Australian IT services provider. (Built with WordPress, PHP, Bootstrap).
+    * **[Care & Connects](https://careandconnects.com.au)**: A site for IT and tech-related services. (Built with WordPress, PHP, Bootstrap).
+    * **[BERI](https://www.beri.com.bd)**: An education and research institute website. (Built with WordPress, PHP, Bootstrap).
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshihabb007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sshihabb007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sshihabb007&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/sshihabb007" alt="Profile views" />
+</p>
 
 ---
 
